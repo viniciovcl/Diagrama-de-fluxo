@@ -1,1 +1,3 @@
-### Rascunho para montagem de mapa.
+### Diagrama
+
+Rascunho de diagrama para elaboração de mapa.
